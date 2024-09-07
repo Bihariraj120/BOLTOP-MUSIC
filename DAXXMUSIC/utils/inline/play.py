@@ -68,12 +68,12 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✪ʟɪꜰᴇ✪",
-                url=f"https://t.me/CRAZY_OP_01",
+                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐒𝐚𝐧𝐚𝐭𝐚𝐧𝐢🔥",
+                url=f"https://t.me/+I0Zp6Yql7M83Yjg1",
             ),
             InlineKeyboardButton(
-                text="✪ᴊᴀɴɴ✪",
-                url=f"https://t.me/PURVI_SUPPORT",
+                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐀𝐛𝐨𝐮𝐭𝐬🔥",
+                url=f"https://t.me/BoltAbouts",
             ),
         ],
         [

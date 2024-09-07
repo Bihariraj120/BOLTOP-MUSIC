@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐒𝐚𝐧𝐚𝐭𝐚𝐧𝐢🔥",
+                text="𝐆𝐎𝐃 𝐁𝐎𝐋𝐓",
                 url=f"https://t.me/+I0Zp6Yql7M83Yjg1",
             ),
             InlineKeyboardButton(
@@ -78,8 +78,8 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✪ᴏᴡɴᴇʀ✪",
-                url=f"t.me/{OWNER_USERNAME}",
+                text="❥︎𝐁𝐨𝐥𝐭᭄'𝐒𝐚𝐧𝐚𝐭𝐚𝐧𝐢🔥",
+                url=f"https://t.me/Wtz_Bolt_God",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],

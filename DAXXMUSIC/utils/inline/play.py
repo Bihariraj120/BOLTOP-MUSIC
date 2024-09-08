@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝐆𝐎𝐃 𝐁𝐎𝐋𝐓",
+                text="❥︎𝐆𝐨𝐝᭄'𝐁𝐨𝐥𝐭🔥",
                 url=f"https://t.me/+I0Zp6Yql7M83Yjg1",
             ),
             InlineKeyboardButton(
